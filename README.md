@@ -1,8 +1,18 @@
 
 # Bridging Divides Migration Data Challenge 2025 
-----------------
+
+## Team Name 
+- **Mosaic Migrants**
+## Team Members
+-	Ishrat Jaben Bushra
+-	Kin Kwan Liu(Derek)
+-	Muhammad Zaka Shaheryar
+
 ## 📌 Challenge Overview
-The challenge explores underutilized Statistics Canada datasets to uncover geographic disparities in access to essential services and amenities, particularly for immigrants, temporary residents, and Canadian-born populations.
+- This hands-on competition empowers undergraduate and graduate students to explore real-world migration issues using underutilized Statistics Canada datasets. Participants analyze disparities in access to essential services—like healthcare, education, and employment—across immigrants, temporary residents, and Canadian-born individuals. Presented by **Toronto Metropolitan University** in collaboration with the **Innovation Zones**.
+## 📊 What Makes It Special
+- Curated datasets were prepared under the leadership of **Dr. Feng Hou**, Principal Researcher at Statistics Canada, providing a solid foundation for exploring spatial inequality and data-driven storytelling.
+
 ## 🧠 Research Questions
 We focused on the following key questions:
 **1.** What is the density of recent immigrants (2016–2021) across Aggregate Dissemination Areas (ADAs)?
@@ -30,10 +40,7 @@ Provided by Statistics Canada:
 We gratefully acknowledge:
 - Statistics Canada for data and support.
 - BD-MDC organizers and mentors.
-## Team Members
--	Ishrat Jaben Bushra
--	Kin Kwan Liu(Derek)
--	Muhammad Zaka Shaheryar
+
 ## 📜 License
 GNU General Public License v3.0
 
