@@ -2,16 +2,16 @@
 # Bridging Divides Migration Data Challenge 2025 
 
 ## Team Name 
-- **Mosaic Migrants**
+ **Mosaic Migrants**
 ## Team Members
 -	Ishrat Jaben Bushra
 -	Kin Kwan Liu(Derek)
 -	Muhammad Zaka Shaheryar
 
 ## 📌 Challenge Overview
-- This hands-on competition empowers undergraduate and graduate students to explore real-world migration issues using underutilized Statistics Canada datasets. Participants analyze disparities in access to essential services—like healthcare, education, and employment—across immigrants, temporary residents, and Canadian-born individuals. Presented by **Toronto Metropolitan University** in collaboration with the **Innovation Zones**.
-## 📊 What Makes It Special
-- Curated datasets were prepared under the leadership of **Dr. Feng Hou**, Principal Researcher at Statistics Canada, providing a solid foundation for exploring spatial inequality and data-driven storytelling.
+ This hands-on competition empowers undergraduate and graduate students to explore real-world migration issues using underutilized Statistics Canada datasets. Participants analyze disparities in access to essential services, like healthcare, education, and employment, across immigrants, temporary residents, and Canadian-born individuals. It is presented by **Toronto Metropolitan University** in collaboration with the **Innovation Zones**.
+## 📊 Dataset Background
+ Curated datasets were prepared under the leadership of **Dr. Feng Hou**, Principal Researcher at **Statistics Canada**, provides a solid foundation for exploring spatial inequality and data-driven storytelling.
 
 ## 🧠 Research Questions
 We focused on the following key questions:
@@ -21,11 +21,11 @@ We focused on the following key questions:
 **4.** Do women refugees face additional barriers to accessing education, employment, and healthcare services?
 ## 📂 Given Dataset
 Provided by Statistics Canada:
-- **ada_profile_simplified.xlsx:** 2021 Census Profile at the ADA level (immigration-related characteristics).(saved as csv for ease of use)
-- **ADA_acs_file.xlsx:** Spatial Access Measures (aggregated at ADA level from Dissemination Block level) ).(saved as csv for ease of use)
+- **ADA_profile_simplified.xlsx:** 2021 Census Profile at the ADA level (immigration-related characteristics) *(*saved as csv for ease of use*)*
+- **ADA_acs_file.xlsx:** Spatial Access Measures (aggregated at ADA level from Dissemination Block level) *(*saved as csv for ease of use*)*
 ## Additional Dataset & Resources
-- **shapefiles:** Geographic boundary files in .shp format used for spatial visualizations.
-## Tools & Technologies
+- **shapefiles:** Geographic boundary files in .shp format used for spatial visualizations.*https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21*
+## 🔧 Tools & Technologies
 - **Language:** Python 3.11
 - **Platform:** Google Colab for coding
 -**Visualization & Analysis Tools:** Microsoft Excel for pivot tables, data exploration, intermediate calculation
@@ -38,8 +38,14 @@ Provided by Statistics Canada:
 - **Presentation Slides:** Summary of findings .
 ## Acknowledgments
 We gratefully acknowledge:
-- Statistics Canada for data and support.
-- BD-MDC organizers and mentors.
+-📍 Statistics Canada
+-📍 Immigration, Refugees and Citizenship Canada
+-📍 Government of Canada
+-📍 Experience Ventures
+-📍 Innovation Boost Zone (IBZ)
+-📍 Centre of Excellence on the Canadian Federation
+-📍 Environics Institute, Magnet, Pairity, and TMU's Master of Engineering Innovation & Entrepreneurship
+- 👤BD-MDC organizers and mentors.
 
 ## 📜 License
 GNU General Public License v3.0
