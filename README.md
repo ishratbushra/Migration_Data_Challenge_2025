@@ -15,6 +15,7 @@
 
 ## 🧠 Research Questions
 We focused on the following key questions:
+
 -**1.** What is the density of recent immigrants (2016–2021) across Aggregate Dissemination Areas (ADAs)?
 -**2.** How do immigrant classes (economic, family, refugee, other) access workplace opportunities across regions?
 -**3.** How do different immigrant generations (first, second, third+) access primary/secondary education?
