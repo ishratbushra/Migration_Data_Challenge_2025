@@ -30,8 +30,8 @@ Provided by Statistics Canada:
 ## 🔧 Tools & Technologies
 - **Language:** Python 3.11
 - **Platform:** Google Colab for coding
--**Visualization & Analysis Tools:** Microsoft Excel for pivot tables, data exploration, intermediate calculation
--  **Libraries:** pandas, numpy, matplotlib,plotly, geopandas, folium, ticker, patches
+- **Visualization & Analysis Tools:** Microsoft Excel for pivot tables, data exploration, intermediate calculation
+- **Libraries:** pandas, numpy, matplotlib,plotly, geopandas, folium, ticker, patches
 ## ✅ Deliverables
 - **Colab Notebooks & py files:** Modular scripts for data processing and visualization.
 - **Charts & Tables:** Stacked bar charts, Group bar charts, Choropleth maps, Table.
