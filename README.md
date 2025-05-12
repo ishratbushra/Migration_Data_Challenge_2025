@@ -16,13 +16,10 @@
 ## 🧠 Research Questions
 We focused on the following key questions:
 
--**1.** What is the density of recent immigrants (2016–2021) across Aggregate Dissemination Areas (ADAs)?
-
--**2.** How do immigrant classes (economic, family, refugee, other) access workplace opportunities across regions?
-
--**3.** How do different immigrant generations (first, second, third+) access primary/secondary education?
-
--**4.** Do women refugees face additional barriers to accessing education, employment, and healthcare services?
+- **1.** What is the density of recent immigrants (2016–2021) across Aggregate Dissemination Areas (ADAs)?
+- **2.** How do immigrant classes (economic, family, refugee, other) access workplace opportunities across regions?
+- **3.** How do different immigrant generations (first, second, third+) access primary/secondary education?
+- **4.** Do women refugees face additional barriers to accessing education, employment, and healthcare services?
 ## 📂 Given Dataset
 Provided by Statistics Canada:
 - **ADA_profile_simplified.xlsx:** 2021 Census Profile at the ADA level (immigration-related characteristics) *(*saved as csv for ease of use*)*
@@ -44,20 +41,13 @@ Provided by Statistics Canada:
 ## 📜 Acknowledgments
 We gratefully acknowledge:
 
--📍 Statistics Canada
-
--📍 Immigration, Refugees and Citizenship Canada
-
--📍 Government of Canada
-
--📍 Experience Ventures
-
--📍 Innovation Boost Zone (IBZ)
-
--📍 Centre of Excellence on the Canadian Federation
-
--📍 Environics Institute, Magnet, Pairity, and TMU's Master of Engineering Innovation & Entrepreneurship
-
+- 📍 Statistics Canada
+- 📍 Immigration, Refugees and Citizenship Canada
+- 📍 Government of Canada
+- 📍 Experience Ventures
+- 📍 Innovation Boost Zone (IBZ)
+- 📍 Centre of Excellence on the Canadian Federation
+- 📍 Environics Institute, Magnet, Pairity, and TMU's Master of Engineering Innovation & Entrepreneurship
 - 👤BD-MDC organizers and mentors.
 
 ## 📜 License
