@@ -16,10 +16,10 @@
 ## 🧠 Research Questions
 We focused on the following key questions:
 
-- What is the density of recent immigrants (2016–2021) across Aggregate Dissemination Areas (ADAs)?
-- How do immigrant classes (economic, family, refugee, other) access workplace opportunities across regions?
-- How do different immigrant generations (first, second, third+) access primary/secondary education?
-- Do women refugees face additional barriers to accessing education, employment, and healthcare services?
+- Which areas have a higher-than-average density of recent immigrants (2016–2021)?
+- How do different immigrant classes (economic, family, refugee, and other) vary in areas with high vs. low workplace accessibility?
+- How does generational composition differ in areas with high vs. low access to primary/secondary education?
+- In areas with high populations of women refugees, do they face greater barriers to workplace accessibility?
 ## 📂 Given Dataset
 Provided by Statistics Canada:
 - **ADA_profile_simplified.xlsx:** 2021 Census Profile at the ADA level (immigration-related characteristics) *(*saved as csv for ease of use*)*
