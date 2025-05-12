@@ -1,9 +1,9 @@
 
 # Bridging Divides Migration Data Challenge 2025 
 
-## Team Name 
+## 🌐 Team Name 
  **Mosaic Migrants**
-## Team Members
+## 👥 Team Members
 -	Ishrat Jaben Bushra
 -	Kin Kwan Liu(Derek)
 -	Muhammad Zaka Shaheryar
@@ -23,20 +23,21 @@ We focused on the following key questions:
 Provided by Statistics Canada:
 - **ADA_profile_simplified.xlsx:** 2021 Census Profile at the ADA level (immigration-related characteristics) *(*saved as csv for ease of use*)*
 - **ADA_acs_file.xlsx:** Spatial Access Measures (aggregated at ADA level from Dissemination Block level) *(*saved as csv for ease of use*)*
-## Additional Dataset & Resources
-- **shapefiles:** Geographic boundary files in .shp format used for spatial visualizations.*https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21*
+## 📂 Additional Dataset & Resources
+- **Shapefiles:** Geographic boundary files in .shp format used for spatial visualizations.*https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21*
+- **National Cencus 2021:** *https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&DGUIDList=2021A000011124&GENDERList=1,2,3&STATISTICList=1,4&HEADERList=0&SearchText=Canada*
 ## 🔧 Tools & Technologies
 - **Language:** Python 3.11
 - **Platform:** Google Colab for coding
 -**Visualization & Analysis Tools:** Microsoft Excel for pivot tables, data exploration, intermediate calculation
--  **Libraries:** pandas, numpy, matplotlib, seaborn, plotly, geopandas, shapely, folium, openpyxl
-## Deliverables
+-  **Libraries:** pandas, numpy, matplotlib,plotly, geopandas, folium, ticker, patches
+## ✅ Deliverables
 - **Colab Notebooks & py files:** Modular scripts for data processing and visualization.
 - **Charts & Tables:** Stacked bar charts, Group bar charts, Choropleth maps, Table.
 - **Report:** Final PDF with visual findings and analysis.
 - **Shapefiles:** For geographic analysis.
 - **Presentation Slides:** Summary of findings .
-## Acknowledgments
+## 📜 Acknowledgments
 We gratefully acknowledge:
 -📍 Statistics Canada
 -📍 Immigration, Refugees and Citizenship Canada
