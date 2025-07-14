@@ -41,14 +41,14 @@ Provided by Statistics Canada:
 ## 📜 Acknowledgments
 We gratefully acknowledge:
 
-- 📍 Statistics Canada
-- 📍 Immigration, Refugees and Citizenship Canada
-- 📍 Government of Canada
-- 📍 Experience Ventures
-- 📍 Innovation Boost Zone (IBZ)
-- 📍 Centre of Excellence on the Canadian Federation
-- 📍 Environics Institute, Magnet, Pairity, and TMU's Master of Engineering Innovation & Entrepreneurship
-- 👤BD-MDC organizers and mentors.
+📍 Statistics Canada
+📍 Immigration, Refugees and Citizenship Canada
+📍 Government of Canada
+ 📍 Experience Ventures
+📍 Innovation Boost Zone (IBZ)
+📍 Centre of Excellence on the Canadian Federation
+📍 Environics Institute, Magnet, Pairity, and TMU's Master of Engineering Innovation & Entrepreneurship
+👤BD-MDC organizers and mentors.
 
 ## 📜 License
 GNU General Public License v3.0
